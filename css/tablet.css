@@ -1,0 +1,15 @@
+*
+{
+	margin:0;
+	padding: 0px;
+}
+
+div.menu li
+{
+	font-size: 0.8em;
+	/* padding: 0; */
+}
+.grid_container
+{			
+	grid-template-rows: 1fr 2fr;   /*行方向のサイズは1:2*/
+}
